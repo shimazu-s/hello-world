@@ -1,2 +1,2 @@
 # hello-world
-Just another directory
+Hi Humans!
